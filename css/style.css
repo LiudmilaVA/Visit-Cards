@@ -1,0 +1,29 @@
+.additional-info.is-hidden {
+  display: none; }
+
+.card {
+  width: 300px; }
+
+.card-logo {
+  height: 6vh; }
+
+.open-card {
+  background: #2b1f1e; }
+
+.close-card {
+  background: #555555; }
+
+.high-priority {
+  border: 2px red solid; }
+
+.medium-priority {
+  border: 2px green solid; }
+
+.low-priority {
+  border: 2px yellow solid; }
+
+.card-table {
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;
+  background-color: #93ACD9; }
